@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Android Spinner Part 2</string>
+
+    <string-array name="mymensingh_district">
+        <item>Bhaluka</item>
+        <item>Trishal</item>
+        <item>Haluaghat</item>
+        <item>Muktagacha</item>
+        <item>Dhobaura</item>
+        <item>Fulbaria</item>
+        <item>Gaffargaon</item>
+        <item>Gauripur</item>
+        <item>Ishwarganj</item>
+        <item>Mymensingh Sadar</item>
+        <item>Nandail</item>
+        <item>Phulpur</item>
+        <item>Tarakhanda</item>
+
+    </string-array>
+    
+    <string-array name="population">
+        <item>264,991</item>
+        <item>336,797</item>
+        <item>242,339</item>
+        <item>321,759</item>
+        <item>157,027</item>
+        <item>345,283</item>
+        <item>379,803</item>
+        <item>247,945</item>
+        <item>306,977</item>
+        <item>566,368</item>
+        <item>328,847</item>
+        <item>459,046</item>
+        <item>121,322</item>
+
+    </string-array>
+    
+</resources>

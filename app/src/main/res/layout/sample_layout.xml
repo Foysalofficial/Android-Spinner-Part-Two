@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/ImageViewId"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:padding="5dp"
+        android:src="@drawable/fulbaria" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:id="@+id/TextViewUpazila"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Upazila"
+            android:textColor="#F44336"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/TextViewPopulation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Population"
+            android:textColor="#FF9800"
+            android:textSize="15sp"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
